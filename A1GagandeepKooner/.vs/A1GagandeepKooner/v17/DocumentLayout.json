@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gagan\\source\\repos\\A1GagandeepKooner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{918D4D39-BEA5-4873-BFB2-56186F725C07}|A1GagandeepKooner.csproj|c:\\users\\gagan\\source\\repos\\a1gagandeepkooner\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918D4D39-BEA5-4873-BFB2-56186F725C07}|A1GagandeepKooner.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918D4D39-BEA5-4873-BFB2-56186F725C07}|A1GagandeepKooner.csproj|c:\\users\\gagan\\source\\repos\\a1gagandeepkooner\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918D4D39-BEA5-4873-BFB2-56186F725C07}|A1GagandeepKooner.csproj|solutionrelative:hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918D4D39-BEA5-4873-BFB2-56186F725C07}|A1GagandeepKooner.csproj|c:\\users\\gagan\\source\\repos\\a1gagandeepkooner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918D4D39-BEA5-4873-BFB2-56186F725C07}|A1GagandeepKooner.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918D4D39-BEA5-4873-BFB2-56186F725C07}|A1GagandeepKooner.csproj|c:\\users\\gagan\\source\\repos\\a1gagandeepkooner\\commissionemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918D4D39-BEA5-4873-BFB2-56186F725C07}|A1GagandeepKooner.csproj|solutionrelative:commissionemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918D4D39-BEA5-4873-BFB2-56186F725C07}|A1GagandeepKooner.csproj|c:\\users\\gagan\\source\\repos\\a1gagandeepkooner\\salariedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918D4D39-BEA5-4873-BFB2-56186F725C07}|A1GagandeepKooner.csproj|solutionrelative:salariedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918D4D39-BEA5-4873-BFB2-56186F725C07}|A1GagandeepKooner.csproj|c:\\users\\gagan\\source\\repos\\a1gagandeepkooner\\salarypluscommissionemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918D4D39-BEA5-4873-BFB2-56186F725C07}|A1GagandeepKooner.csproj|solutionrelative:salarypluscommissionemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalariedEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\gagan\\source\\repos\\A1GagandeepKooner\\SalariedEmployee.cs",
+              "RelativeDocumentMoniker": "SalariedEmployee.cs",
+              "ToolTip": "C:\\Users\\gagan\\source\\repos\\A1GagandeepKooner\\SalariedEmployee.cs",
+              "RelativeToolTip": "SalariedEmployee.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T22:57:16.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommissionEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\gagan\\source\\repos\\A1GagandeepKooner\\CommissionEmployee.cs",
+              "RelativeDocumentMoniker": "CommissionEmployee.cs",
+              "ToolTip": "C:\\Users\\gagan\\source\\repos\\A1GagandeepKooner\\CommissionEmployee.cs",
+              "RelativeToolTip": "CommissionEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T22:56:59.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gagan\\source\\repos\\A1GagandeepKooner\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gagan\\source\\repos\\A1GagandeepKooner\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAKkBAAAAAAAAAAAUwAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T04:05:55.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HourlyEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\gagan\\source\\repos\\A1GagandeepKooner\\HourlyEmployee.cs",
+              "RelativeDocumentMoniker": "HourlyEmployee.cs",
+              "ToolTip": "C:\\Users\\gagan\\source\\repos\\A1GagandeepKooner\\HourlyEmployee.cs",
+              "RelativeToolTip": "HourlyEmployee.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T22:56:21.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\gagan\\source\\repos\\A1GagandeepKooner\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\gagan\\source\\repos\\A1GagandeepKooner\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T04:27:47.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SalaryPlusCommissionEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\gagan\\source\\repos\\A1GagandeepKooner\\SalaryPlusCommissionEmployee.cs",
+              "RelativeDocumentMoniker": "SalaryPlusCommissionEmployee.cs",
+              "ToolTip": "C:\\Users\\gagan\\source\\repos\\A1GagandeepKooner\\SalaryPlusCommissionEmployee.cs",
+              "RelativeToolTip": "SalaryPlusCommissionEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T01:59:08.391Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

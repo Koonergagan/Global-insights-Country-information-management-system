@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gagan\\source\\repos\\MTGagandeepKooner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{565CF162-1A84-4D99-8E82-5258ECCEB684}|MTGagandeepKooner.csproj|c:\\users\\gagan\\source\\repos\\mtgagandeepkooner\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{565CF162-1A84-4D99-8E82-5258ECCEB684}|MTGagandeepKooner.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565CF162-1A84-4D99-8E82-5258ECCEB684}|MTGagandeepKooner.csproj|c:\\users\\gagan\\source\\repos\\mtgagandeepkooner\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565CF162-1A84-4D99-8E82-5258ECCEB684}|MTGagandeepKooner.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565CF162-1A84-4D99-8E82-5258ECCEB684}|MTGagandeepKooner.csproj|c:\\users\\gagan\\source\\repos\\mtgagandeepkooner\\salariedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565CF162-1A84-4D99-8E82-5258ECCEB684}|MTGagandeepKooner.csproj|solutionrelative:salariedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565CF162-1A84-4D99-8E82-5258ECCEB684}|MTGagandeepKooner.csproj|c:\\users\\gagan\\source\\repos\\mtgagandeepkooner\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565CF162-1A84-4D99-8E82-5258ECCEB684}|MTGagandeepKooner.csproj|solutionrelative:hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565CF162-1A84-4D99-8E82-5258ECCEB684}|MTGagandeepKooner.csproj|c:\\users\\gagan\\source\\repos\\mtgagandeepkooner\\commissionemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565CF162-1A84-4D99-8E82-5258ECCEB684}|MTGagandeepKooner.csproj|solutionrelative:commissionemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565CF162-1A84-4D99-8E82-5258ECCEB684}|MTGagandeepKooner.csproj|c:\\users\\gagan\\source\\repos\\mtgagandeepkooner\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565CF162-1A84-4D99-8E82-5258ECCEB684}|MTGagandeepKooner.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalariedEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\gagan\\source\\repos\\MTGagandeepKooner\\SalariedEmployee.cs",
+              "RelativeDocumentMoniker": "SalariedEmployee.cs",
+              "ToolTip": "C:\\Users\\gagan\\source\\repos\\MTGagandeepKooner\\SalariedEmployee.cs",
+              "RelativeToolTip": "SalariedEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T05:41:16.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gagan\\source\\repos\\MTGagandeepKooner\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\gagan\\source\\repos\\MTGagandeepKooner\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAADYBAAAAAAAAAAA6wD0BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T04:22:09.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HourlyEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\gagan\\source\\repos\\MTGagandeepKooner\\HourlyEmployee.cs",
+              "RelativeDocumentMoniker": "HourlyEmployee.cs",
+              "ToolTip": "C:\\Users\\gagan\\source\\repos\\MTGagandeepKooner\\HourlyEmployee.cs",
+              "RelativeToolTip": "HourlyEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T05:55:00.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommissionEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\gagan\\source\\repos\\MTGagandeepKooner\\CommissionEmployee.cs",
+              "RelativeDocumentMoniker": "CommissionEmployee.cs",
+              "ToolTip": "C:\\Users\\gagan\\source\\repos\\MTGagandeepKooner\\CommissionEmployee.cs",
+              "RelativeToolTip": "CommissionEmployee.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAiwEIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T05:40:04.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\gagan\\source\\repos\\MTGagandeepKooner\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\gagan\\source\\repos\\MTGagandeepKooner\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAADYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T05:21:26.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\gagan\\source\\repos\\MTGagandeepKooner\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\gagan\\source\\repos\\MTGagandeepKooner\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T04:22:11.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

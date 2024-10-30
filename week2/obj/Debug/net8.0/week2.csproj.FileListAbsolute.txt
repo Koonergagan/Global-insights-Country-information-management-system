@@ -1,0 +1,14 @@
+C:\Users\gagan\source\repos\week2\bin\Debug\net8.0\week2.exe
+C:\Users\gagan\source\repos\week2\bin\Debug\net8.0\week2.deps.json
+C:\Users\gagan\source\repos\week2\bin\Debug\net8.0\week2.runtimeconfig.json
+C:\Users\gagan\source\repos\week2\bin\Debug\net8.0\week2.dll
+C:\Users\gagan\source\repos\week2\bin\Debug\net8.0\week2.pdb
+C:\Users\gagan\source\repos\week2\obj\Debug\net8.0\week2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gagan\source\repos\week2\obj\Debug\net8.0\week2.AssemblyInfoInputs.cache
+C:\Users\gagan\source\repos\week2\obj\Debug\net8.0\week2.AssemblyInfo.cs
+C:\Users\gagan\source\repos\week2\obj\Debug\net8.0\week2.csproj.CoreCompileInputs.cache
+C:\Users\gagan\source\repos\week2\obj\Debug\net8.0\week2.dll
+C:\Users\gagan\source\repos\week2\obj\Debug\net8.0\refint\week2.dll
+C:\Users\gagan\source\repos\week2\obj\Debug\net8.0\week2.pdb
+C:\Users\gagan\source\repos\week2\obj\Debug\net8.0\week2.genruntimeconfig.cache
+C:\Users\gagan\source\repos\week2\obj\Debug\net8.0\ref\week2.dll

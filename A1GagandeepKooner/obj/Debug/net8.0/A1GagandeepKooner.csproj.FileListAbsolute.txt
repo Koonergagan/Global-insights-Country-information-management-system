@@ -1,0 +1,17 @@
+C:\Users\gagan\source\repos\A1GagandeepKooner\obj\Debug\net8.0\A1GagandeepKooner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gagan\source\repos\A1GagandeepKooner\obj\Debug\net8.0\A1GagandeepKooner.AssemblyInfoInputs.cache
+C:\Users\gagan\source\repos\A1GagandeepKooner\obj\Debug\net8.0\A1GagandeepKooner.AssemblyInfo.cs
+C:\Users\gagan\source\repos\A1GagandeepKooner\obj\Debug\net8.0\A1GagandeepKooner.csproj.CoreCompileInputs.cache
+C:\Users\gagan\source\repos\A1GagandeepKooner\bin\Debug\net8.0\A1GagandeepKooner.exe
+C:\Users\gagan\source\repos\A1GagandeepKooner\bin\Debug\net8.0\A1GagandeepKooner.deps.json
+C:\Users\gagan\source\repos\A1GagandeepKooner\bin\Debug\net8.0\A1GagandeepKooner.runtimeconfig.json
+C:\Users\gagan\source\repos\A1GagandeepKooner\bin\Debug\net8.0\A1GagandeepKooner.dll
+C:\Users\gagan\source\repos\A1GagandeepKooner\bin\Debug\net8.0\A1GagandeepKooner.pdb
+C:\Users\gagan\source\repos\A1GagandeepKooner\obj\Debug\net8.0\A1GagandeepKooner.dll
+C:\Users\gagan\source\repos\A1GagandeepKooner\obj\Debug\net8.0\refint\A1GagandeepKooner.dll
+C:\Users\gagan\source\repos\A1GagandeepKooner\obj\Debug\net8.0\A1GagandeepKooner.pdb
+C:\Users\gagan\source\repos\A1GagandeepKooner\obj\Debug\net8.0\A1GagandeepKooner.genruntimeconfig.cache
+C:\Users\gagan\source\repos\A1GagandeepKooner\obj\Debug\net8.0\ref\A1GagandeepKooner.dll
+C:\Users\gagan\source\repos\A1GagandeepKooner\bin\Debug\net8.0\ConsoleTables.dll
+C:\Users\gagan\source\repos\A1GagandeepKooner\obj\Debug\net8.0\A1GagandeepKooner.csproj.AssemblyReference.cache
+C:\Users\gagan\source\repos\A1GagandeepKooner\obj\Debug\net8.0\A1Gagand.FCAA5AF5.Up2Date
